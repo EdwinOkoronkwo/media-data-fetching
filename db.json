@@ -1,8 +1,77 @@
 {
   "users": [
-    { "id": 1, "name": "Myra" },
-    { "id": 2, "name": "John Wick" }
+    {
+      "id": "1",
+      "name": "Myra Thiel"
+    },
+    {
+      "id": "bd3c",
+      "name": "Timothy Zulauf"
+    },
+    {
+      "id": "a895",
+      "name": "Jessie Fritsch"
+    },
+    {
+      "id": "dd51",
+      "name": "Carroll Hermann"
+    },
+    {
+      "id": "909c",
+      "name": "Mrs. Miriam Will"
+    }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": "10",
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "id": "2a0c",
+      "userId": 1,
+      "title": "Refined Fresh Cheese"
+    },
+    {
+      "id": "762c",
+      "userId": 1,
+      "title": "Gorgeous Rubber Chips"
+    },
+    {
+      "id": "25ef",
+      "userId": "1",
+      "title": "Licensed Concrete Cheese"
+    },
+    {
+      "id": "f69d",
+      "userId": "1",
+      "title": "Recycled Wooden Chair"
+    },
+    {
+      "id": "9e1a",
+      "userId": "1",
+      "title": "Rustic Granite Shoes"
+    },
+    {
+      "id": "413c",
+      "userId": "1",
+      "title": "Oriental Bronze Bike"
+    },
+    {
+      "id": "40c5",
+      "userId": "1",
+      "title": "Oriental Rubber Table"
+    },
+    {
+      "id": "f12e",
+      "userId": "1",
+      "title": "Sleek Wooden Computer"
+    },
+    {
+      "id": "cb62",
+      "userId": "1",
+      "title": "Sleek Steel Shoes"
+    }
+  ],
   "photos": []
 }
